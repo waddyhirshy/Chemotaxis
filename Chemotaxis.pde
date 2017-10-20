@@ -38,7 +38,7 @@ score = score + 1;
   textSize(44);
   fill(212,175,55);
   text("SCORE:", 10,50);
-  text(score, 165,50);
+  text(score, 180,50);
 }
 class Walker
 {
